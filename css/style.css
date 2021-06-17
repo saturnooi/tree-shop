@@ -1,0 +1,24 @@
+.bg-header{
+    background-image:linear-gradient(rgba(9, 103, 0, 0.9), rgba(0, 255, 123, 0.782)), url(/img/bg-head.jpg) ;
+    opacity:0.5;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 85vh;
+}
+
+.heading{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: 'Prompt', sans-serif;
+}
+
+.card-text{
+    height: 6vw; 
+}
+
+.card-img-top{
+    height: 15vw;
+}
